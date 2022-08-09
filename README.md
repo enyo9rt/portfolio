@@ -32,4 +32,4 @@
 > AWS RDS / Elastic Beanstalk / S3 / CloudFront<br/>
 > HTML5 / CSS3 /  Javascript / Bulma / BootStrap / JQuery<br/><br/>
 > 
-> [프로젝트 상세보기](https://github.com/enyo9rt/NewsCommunity-bFinal)
+> [프로젝트 상세보기](https://github.com/enyo9rt/NewsCommunity-bFinal/tree/portfolio)
